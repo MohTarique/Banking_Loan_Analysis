@@ -62,5 +62,13 @@ Data was extracted from MySQL using the **MySQL Python Connector** and **Jupyter
 Loading Data
 df=pd.read_sql(query,cnx)
 ref.ipynb file
+```
+3. Data Cleaning
+```python
+df=df.rename(columns={'ï»¿Client ID':'Client ID'})
+# Check for missing values
+missing_values = df.isnull().sum()
+print("Missing values per column:\n",missing_values)
+```
 
 
