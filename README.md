@@ -68,7 +68,18 @@ ref.ipynb file
 df=df.rename(columns={'ï»¿Client ID':'Client ID'})
 # Check for missing values
 missing_values = df.isnull().sum()
-print("Missing values per column:\n",missing_values)
 ```
+## Power BI Dashboard
 
+**Home**
+![alt image](https://github.com/MohTarique/Banking_Loan_Analysis/blob/main/Screenshot%20(62).png)
+
+**Loan Analysis**
+![alt image](https://github.com/MohTarique/Banking_Loan_Analysis/blob/main/Screenshot%20(63).png)
+
+**Deposit Analysis**
+![alt image](https://github.com/MohTarique/Banking_Loan_Analysis/blob/main/Screenshot%20(64).png)
+
+**Summary**
+![alt image](https://github.com/MohTarique/Banking_Loan_Analysis/blob/main/Screenshot%20(65).png)
 
