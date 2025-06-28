@@ -9,6 +9,8 @@ Develop a basic understanding of risk analytics in banking and financial service
 
 ## Tech Stack
 
+*MS Excel*
+
 *Python*
 
 *My Sql*
