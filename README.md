@@ -30,16 +30,8 @@ Develop a basic understanding of risk analytics in banking and financial service
 4.Update data source connections if necessary.
 
 5.Explore dashboards interactively.
+
     
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
 ## Workflow
 Data was extracted from MySQL using the **MySQL Python Connector** and **Jupyter Notebook**:
 
