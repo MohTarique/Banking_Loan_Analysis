@@ -1,11 +1,8 @@
 
 # Banking Loan Analysis
 
-Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
-
-
-
-
+## Summary
+Analyzed financial data of 2,900+ banking clients using MySQL and Python to uncover key patterns in loan, deposit, and fee performance. Built an interactive Power BI dashboard highlighting major revenue drivers, including $4.38bn in loans and $3.77bn in deposits, and identified high-value customer segments across income, tenure, and nationality. Delivered insights to support data-driven lending and customer engagement decisions. 
 
 ## Tech Stack
 
